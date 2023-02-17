@@ -3,14 +3,15 @@
 
 ### Set up
 `npm install` for package installations
+
 For any npm packaes that gives issues with dependencies, use `npm install package_name -f` to force the installation. 
 
 Some important pacakges used - 
-*bootstrap
-*react-bootstrap
-*react-reveal
-*react-scroll
-*gh-pages
+* bootstrap
+* react-bootstrap
+* react-reveal
+* react-scroll
+* gh-pages
 
 ### Steps to set it up 
 [Deploying a React App to GitHub Pages](https://github.com/gitname/react-gh-pages)
