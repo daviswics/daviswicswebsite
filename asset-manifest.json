@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/daviswicswebsite/static/css/main.073c9b0a.css",
-    "main.js": "/daviswicswebsite/static/js/main.4ebdb736.js",
+    "main.css": "/daviswicswebsite/static/css/main.4b7e5621.css",
+    "main.js": "/daviswicswebsite/static/js/main.65aa201b.js",
     "static/js/787.2efbd1f2.chunk.js": "/daviswicswebsite/static/js/787.2efbd1f2.chunk.js",
-    "static/media/logo.svg": "/daviswicswebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/wicswebsitedesign-01.png": "/daviswicswebsite/static/media/wicswebsitedesign-01.e671628b30efb70bb562.png",
+    "static/media/eventbackground-04.png": "/daviswicswebsite/static/media/eventbackground-04.acfd0b19c3217045df16.png",
     "index.html": "/daviswicswebsite/index.html",
-    "main.073c9b0a.css.map": "/daviswicswebsite/static/css/main.073c9b0a.css.map",
-    "main.4ebdb736.js.map": "/daviswicswebsite/static/js/main.4ebdb736.js.map",
+    "main.4b7e5621.css.map": "/daviswicswebsite/static/css/main.4b7e5621.css.map",
+    "main.65aa201b.js.map": "/daviswicswebsite/static/js/main.65aa201b.js.map",
     "787.2efbd1f2.chunk.js.map": "/daviswicswebsite/static/js/787.2efbd1f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4ebdb736.js"
+    "static/css/main.4b7e5621.css",
+    "static/js/main.65aa201b.js"
   ]
 }
