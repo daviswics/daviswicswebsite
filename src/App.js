@@ -1,8 +1,8 @@
 import "./App.css";
 
-// import MyNavbar from "./components/common/Navbar";
+import MyNavbar from "./components/common/Navbar";
 import Home from "./components/home/Home";
-// import About from "./components/about/About";
+import About from "./components/about/About";
 // import Events from "./components/events/Events";
 // import PastEvents from "./components/pastevents/PastEvents";
 // import Newsletter from "./components/newsletter/Newsletter";
@@ -11,12 +11,12 @@ import Home from "./components/home/Home";
 function App() {
   return (
     <div className="App d-flex flex-column">
-      {/* <MyNavbar /> */}
+      <MyNavbar />
       <Home />
-      {/* <About />
-      <Newsletter />
-      <Events/>
-      <Contact /> */}
+      <About />
+      {/* <Newsletter /> */}
+      {/* <Events/> */}
+      {/* <Contact /> */}
     </div>
   );
 }
