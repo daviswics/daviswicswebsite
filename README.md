@@ -13,7 +13,7 @@ Some important pacakges used -
 * react-scroll
 * gh-pages
 
-### Steps to set it up 
+### Steps to set it up from scratch
 [Deploying a React App to GitHub Pages](https://github.com/gitname/react-gh-pages)
 
 ### Editing
